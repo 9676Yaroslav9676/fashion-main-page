@@ -10,6 +10,8 @@ const Arrivals = () => {
         </div>
         <div className="arrivals__cards">
         <Card/>
+        <Card/>
+        <Card/>
         </div>
      </div>
      </section>
